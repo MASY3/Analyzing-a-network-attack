@@ -9,3 +9,15 @@ red	Attack activity		---,
 yellow	Normal TCP connections failing due to attack		
 
 attached you will find an incident report and tcp/ip logs
+
+![image](https://github.com/MarcoSantibanez/Analyzing-a-network-attack/assets/138132151/f5753aa3-84d9-49f9-96a9-ef63a51622f9)
+
+![image](https://github.com/MarcoSantibanez/Analyzing-a-network-attack/assets/138132151/f1209c71-fd29-4498-a53d-f29172b5bb7b)
+
+![image](https://github.com/MarcoSantibanez/Analyzing-a-network-attack/assets/138132151/1fdd41aa-346e-47ec-96f6-e79a85d7bd1c)
+
+![image](https://github.com/MarcoSantibanez/Analyzing-a-network-attack/assets/138132151/fd9d7bfd-c8b2-48b4-9f89-7d4bf9a4181f)
+
+![image](https://github.com/MarcoSantibanez/Analyzing-a-network-attack/assets/138132151/47185ce5-c965-492a-ac07-83f6b630e871)
+
+
